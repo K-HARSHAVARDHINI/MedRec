@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "705718938777",
+    "firebase_url": "https://medrec-f9e87-default-rtdb.firebaseio.com",
+    "project_id": "medrec-f9e87",
+    "storage_bucket": "medrec-f9e87.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:705718938777:android:784c10969dc2f103e29c08",
+        "android_client_info": {
+          "package_name": "com.example.medrec"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAE1kpU0VWf82Q4VCXQq9gGLboOMZyv8j8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
